@@ -8,7 +8,7 @@ Creating Metaverse for Earth data
   * tour active volcanoe and feel the thickness smoke.
   * jump on Earth observing satellites or International Space Station and view the Earth from space.
 * Gameification
-  * break the ice on South Pole in Minecraft.
+  * break the ice on South Pole in Minecraft / Roblox.
   * capture the rare scene, NTF it, and sell it.
 
 ## What
