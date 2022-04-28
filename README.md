@@ -1,6 +1,6 @@
 # MetaEarth
 
-Creating Metaverse for Earth data
+Creating Metaverse for Earthdata
 
 ## Why
 * AR/VR 
