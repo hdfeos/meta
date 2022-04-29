@@ -14,11 +14,13 @@ Creating Metaverse for Earthdata
 ## What
 * (open source) technologies available for creating Metaverse
 * platforms - Roblox / Minecraft / etc.
+** [Wolvic](https://wolvic.com/)
+** [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
 * examples
  * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
  * [NASA Mars VR](https://accessmars.withgoogle.com/)
 
-## How to
+## How
 * port the existing Earth data to Metaverse data format
 * interact with Earth data naturally
 * make Earth data fun!
