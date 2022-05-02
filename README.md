@@ -8,11 +8,12 @@ Creating Metaverse for Earthdata
 ## Why
 * AR/VR 
   * become a polar bear on ice sheet.
-  * tour active volcanoe and feel the thickness smoke.
+  * tour active volcanoe and feel the real thickness of volcanic ashes.
   * jump on Earth observing satellites or International Space Station and view the Earth from space.
+    * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
-  * capture the rare scene, NTF it, and sell it.
+  * capture the rare scene, NFT it, and sell it using carbon footprint mint.
 
 ## What
 * (open source) technologies available for creating Metaverse
