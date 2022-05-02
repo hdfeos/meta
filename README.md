@@ -21,8 +21,8 @@ Creating Metaverse for Earthdata
   * [Wolvic](https://wolvic.com/)
   * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
 * examples
- * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
- * [NASA Mars VR](https://accessmars.withgoogle.com/)
+  * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
+  * [NASA Mars VR](https://accessmars.withgoogle.com/)
 
 ## How
 * port the existing Earth data to Metaverse data format
