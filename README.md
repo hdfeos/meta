@@ -18,6 +18,7 @@ Creating Metaverse for Earthdata
 
 ## What
 * (open source) technologies available for creating Metaverse
+  * [Metaseq](https://github.com/facebookresearch/metaseq)
 * platforms - Roblox / Minecraft / etc.
   * [Wolvic](https://wolvic.com/)
   * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
