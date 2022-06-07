@@ -14,12 +14,14 @@ Creating Metaverse for Earthdata
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
+* Blockchain
   * capture the rare scene, NFT it, and sell it using carbon footprint mint.
 
 ## What
 * (open source) technologies available for creating Metaverse
   * [Metaseq](https://github.com/facebookresearch/metaseq)
 * platforms - Roblox / Minecraft / etc.
+  * [dClimate](https://www.dclimate.net/)
   * [Wolvic](https://wolvic.com/)
   * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
   * [Decentralland](https://decentraland.org/)
