@@ -22,6 +22,7 @@ Creating Metaverse for Earthdata
 * platforms - Roblox / Minecraft / etc.
   * [Wolvic](https://wolvic.com/)
   * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
+  * [Decentralland](https://decentraland.org/)
 * examples
   * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
   * [NASA Mars VR](https://accessmars.withgoogle.com/)
