@@ -5,6 +5,7 @@ Creating Metaverse for Earth data
 ## Who
 * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
+* [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
 
 ## Why
 * AR/VR/3D LED Billboard
