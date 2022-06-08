@@ -7,8 +7,8 @@ Creating Metaverse for Earthdata
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
 
 ## Why
-* AR/VR 
-  * become a polar bear on ice sheet.
+* AR/VR/3D LED Billboard
+  * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
   * tour active volcanoe and feel the real thickness of volcanic ashes.
   * jump on Earth observing satellites or International Space Station and view the Earth from space.
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
