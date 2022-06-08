@@ -1,6 +1,6 @@
 # MetaEarth
 
-Creating Metaverse for Earthdata
+Creating Metaverse for Earth data
 
 ## Who
 * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
