@@ -15,9 +15,9 @@ Creating Metaverse for Earth data
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
   * excercise (e.g., Pleton) with Earth data.
-    ** climb up cloud/ozone data
-    ** bike along land/ice data
-    ** swim inside ocean/lake data
+    * climb up cloud/ozone data
+    * bike along land/ice data
+    * swim inside ocean/lake data
 * Blockchain
   * capture the rare scene, NFT it, and sell it using carbon footprint mint.
 
