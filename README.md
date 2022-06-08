@@ -14,8 +14,8 @@ Creating Metaverse for Earth data
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
-  * excercise (e.g., Pleton) with Earth data.
-    * climb up cloud/ozone data
+  * excercise (e.g., Peleton) with Earth data.
+    * climb up or Yoga cloud data
     * bike along land/ice data
     * swim inside ocean/lake data
 * Blockchain
