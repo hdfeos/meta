@@ -20,6 +20,7 @@ Creating Metaverse for Earth data
 ## What
 * (open source) technologies available for creating Metaverse
   * [Metaseq](https://github.com/facebookresearch/metaseq)
+  * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
 * platforms - Roblox / Minecraft / etc.
   * [dClimate](https://www.dclimate.net/)
   * [Wolvic](https://wolvic.com/)
