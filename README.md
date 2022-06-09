@@ -3,7 +3,10 @@
 Creating Metaverse for Earth data
 
 ## Who
+### Visionary People
 * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
+* HTC VIVERSE - [Cher Wang](https://youtu.be/0DylYVxgyOM)
+### Working Groups
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
 * [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
 
