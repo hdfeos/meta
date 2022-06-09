@@ -11,7 +11,7 @@ Creating Metaverse for Earth data
 * AR/VR/3D LED Billboard
   * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
   * tour active volcanoe and feel the real thickness of volcanic ashes.
-  * jump on Earth observing satellites or International Space Station and view the Earth from space.
+  * jump on Earth observing satellites or [International Space Station](https://www.oculus.com/experiences/quest/3006696236087408) and view the Earth from space.
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
