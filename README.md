@@ -42,4 +42,4 @@ Creating Metaverse for Earth data
 ## How
 * port the existing Earth data to Metaverse data format
 * interact with Earth data naturally
-* make Earth data fun!
+* make Earth data fun together!
