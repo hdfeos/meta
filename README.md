@@ -31,6 +31,7 @@ Creating Metaverse for Earth data
   * [Metaseq](https://github.com/facebookresearch/metaseq)
   * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
+  * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
 * platforms - Roblox / Minecraft / etc.
   * [dClimate](https://www.dclimate.net/)
   * [Wolvic](https://wolvic.com/)
