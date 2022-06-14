@@ -5,6 +5,7 @@ Creating Metaverse for Earth data
 ## Who
 ### Visionary People
 * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
+* NVIDIA GTC 2022 - [Jensen Huang](https://www.youtube.com/watch?v=39ubNuxnrK8)
 * HTC VIVERSE - [Cher Wang](https://youtu.be/0DylYVxgyOM)
 ### Working Groups
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
