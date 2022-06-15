@@ -13,6 +13,9 @@ Creating Metaverse for Earth data
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
 * [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
 
+### Companies
+* [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M) 
+
 ## Why
 * AR/VR/3D LED Billboard
   * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
