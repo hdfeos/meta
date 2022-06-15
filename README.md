@@ -43,6 +43,7 @@ Creating Metaverse for Earth data
   * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
   * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
   * [NASA Mars VR](https://accessmars.withgoogle.com/)
+  * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
 
 ## How
 * port the existing Earth data to Metaverse data
