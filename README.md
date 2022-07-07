@@ -12,6 +12,7 @@ Creating Metaverse for Earth data
 ### Working Groups
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
 * [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
+* [Metaverse Summit](https://metaverse-summit.org/)
 
 ### Companies
 * [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M) 
