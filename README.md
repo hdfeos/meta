@@ -51,6 +51,7 @@ Creating Metaverse for Earth data
   * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
   * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
   * [NASA Mars VR](https://accessmars.withgoogle.com/)
+    * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
   * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
   * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
 
