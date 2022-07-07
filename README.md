@@ -19,16 +19,17 @@ Creating Metaverse for Earth data
 
 ## Why
 * AR/VR/MR/XR/3D LED Billboard
-  * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
+  * [connect and protect the Natural World](https://ssir.org/articles/entry/using_the_metaverse_to_connect_and_protect_the_natural_world).
+    * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
   * tour active volcanoe and feel the real thickness of volcanic ashes.
   * jump on Earth observing satellites or [International Space Station](https://www.oculus.com/experiences/quest/3006696236087408) and view the Earth from space.
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
   * excercise (e.g., [Peleton](https://www.onepeloton.com/bike/lanebreak)) with Earth data.
-    * climb up or Yoga cloud data
-    * bike along land/ice data
-    * swim inside ocean/lake data
+    * climb up or Yoga cloud data.
+    * bike along land/ice data.
+    * swim inside ocean/lake data.
 * Blockchain
   * capture the rare scene, NFT it, and sell it using carbon footprint mint.
 
@@ -52,7 +53,7 @@ Creating Metaverse for Earth data
   * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
 
 ## How
-* port the existing Earth data to Metaverse data
+* port the existing Earth data to Metaverse data.
   * [KTX](https://www.khronos.org/ktx/) 
-* interact with Earth data naturally
+* interact with Earth data naturally.
 * make Earth data fun together!
