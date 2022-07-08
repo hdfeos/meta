@@ -47,7 +47,7 @@ Creating Metaverse for Earth data
   * [Decentralland](https://decentraland.org/)
   * [Gather](https://www.gather.town/socials)
   * [Etherland](https://etherland.world/marketplace/)
-  * [Sandbox](https://www.sandbox.game/en/)
+  * [The Sandbox](https://www.sandbox.game/en/)
 * examples
   * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
   * [Earth 2](https://earth2.io/)
