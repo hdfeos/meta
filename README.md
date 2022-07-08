@@ -50,7 +50,7 @@ Creating Metaverse for Earth data
   * [Sandbox](https://www.sandbox.game/en/)
 * examples
   * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
-  * [Earth2](https://earth2.io/)
+  * [Earth 2](https://earth2.io/)
   * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
   * [NASA Mars VR](https://accessmars.withgoogle.com/)
     * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
