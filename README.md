@@ -46,6 +46,7 @@ Creating Metaverse for Earth data
   * [dClimate](https://www.dclimate.net/)
   * [Wolvic](https://wolvic.com/)
   * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
+  * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
   * [Decentralland](https://decentraland.org/)
   * [Gather](https://www.gather.town/socials)
   * [Etherland](https://etherland.world/marketplace/)
@@ -54,10 +55,10 @@ Creating Metaverse for Earth data
 
 * examples
   * XR
-    * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
+    * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
+    * [Woorld.io](https://www.wooorld.io/)
     * [NASA Mars VR](https://accessmars.withgoogle.com/)
       * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
-    * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
   * Blockchain
     * [Earth 2](https://earth2.io/)
   * Gamification
