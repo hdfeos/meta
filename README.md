@@ -25,7 +25,7 @@ Creating Metaverse for Earth data
   * tour active volcanoe and feel the real thickness of volcanic ashes.
   * jump on Earth observing satellites or [International Space Station](https://www.oculus.com/experiences/quest/3006696236087408) and view the Earth from space.
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
-* Gameification
+* Gamification
   * break the ice on South Pole in Minecraft / Roblox.
   * suba dive and [classify coral reefs](http://nemonet.info/).
   * excercise (e.g., [Peleton](https://www.onepeloton.com/bike/lanebreak)) with Earth data.
@@ -50,14 +50,18 @@ Creating Metaverse for Earth data
   * [Etherland](https://etherland.world/marketplace/)
   * [The Sandbox](https://www.sandbox.game/en/)
   * [Snap AR](https://ar.snap.com/)
+
 * examples
-  * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
-  * [Earth 2](https://earth2.io/)
-  * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
-  * [NASA Mars VR](https://accessmars.withgoogle.com/)
-    * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
-  * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
-  * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
+  * VR/AR/XR
+    * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
+    * [NASA Mars VR](https://accessmars.withgoogle.com/)
+      * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
+    * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
+  * Blockchain
+    * [Earth 2](https://earth2.io/)
+  * Gamification
+    * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
+    * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
 
 ## How
 * port the existing Earth data to Metaverse data.
