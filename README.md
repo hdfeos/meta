@@ -19,12 +19,15 @@ Creating Metaverse for Earth data
 * [Unity: Create with VR Grant program](https://unity.com/grants/create-with-vr)
 
 ## Why
-* AR/VR/MR/XR/3D LED Billboard
+* XR - AR/VR/MR & 3D LED Billboard
   * [connect and protect the Natural World](https://ssir.org/articles/entry/using_the_metaverse_to_connect_and_protect_the_natural_world).
     * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
   * tour active volcanoe and feel the real thickness of volcanic ashes.
   * jump on Earth observing satellites or [International Space Station](https://www.oculus.com/experiences/quest/3006696236087408) and view the Earth from space.
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
+* Blockchain
+  * capture the rare scene, NFT it, and sell it using carbon footprint mint.
+  * science to earn.
 * Gamification
   * break the ice on South Pole in Minecraft / Roblox.
   * suba dive and [classify coral reefs](http://nemonet.info/).
@@ -32,9 +35,7 @@ Creating Metaverse for Earth data
     * climb up or Yoga cloud data.
     * bike along land/ice data.
     * swim inside ocean/lake data.
-* Blockchain
-  * capture the rare scene, NFT it, and sell it using carbon footprint mint.
-
+    
 ## What
 * (open source) technologies available for creating Metaverse
   * [Metaseq](https://github.com/facebookresearch/metaseq)
@@ -52,7 +53,7 @@ Creating Metaverse for Earth data
   * [Snap AR](https://ar.snap.com/)
 
 * examples
-  * VR/AR/XR
+  * XR
     * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) 
     * [NASA Mars VR](https://accessmars.withgoogle.com/)
       * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
