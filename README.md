@@ -27,6 +27,7 @@ Creating Metaverse for Earth data
     * become Jeff Bezos for a day without a very expensive ticket and space suite.
 * Gameification
   * break the ice on South Pole in Minecraft / Roblox.
+  * suba dive and [classify coral reefs](http://nemonet.info/).
   * excercise (e.g., [Peleton](https://www.onepeloton.com/bike/lanebreak)) with Earth data.
     * climb up or Yoga cloud data.
     * bike along land/ice data.
