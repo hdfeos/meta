@@ -33,7 +33,7 @@ Creating Metaverse for Earth data
   * suba dive and [classify coral reefs](http://nemonet.info/).
   * excercise (e.g., [Peleton](https://www.onepeloton.com/bike/lanebreak)) with Earth data.
     * climb up or Yoga cloud data.
-    * bike along land/ice data.
+    * bike along land/ice data (e.g., [VZFit](https://www.youtube.com/watch?v=dVHBlhzPkGk)).
     * swim inside ocean/lake data.
     
 ## What
