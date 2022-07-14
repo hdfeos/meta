@@ -45,6 +45,8 @@ Creating Metaverse for Earth data
   * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
+
+## Where
 * platforms - Roblox / Minecraft / etc.
   * XR
     * Web 
