@@ -46,15 +46,21 @@ Creating Metaverse for Earth data
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
 * platforms - Roblox / Minecraft / etc.
-  * [dClimate](https://www.dclimate.net/)
-  * [Wolvic](https://wolvic.com/)
-  * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
-  * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
-  * [Decentralland](https://decentraland.org/)
-  * [Gather](https://www.gather.town/socials)
-  * [Etherland](https://etherland.world/marketplace/)
-  * [The Sandbox](https://www.sandbox.game/en/)
-  * [Snap AR](https://ar.snap.com/)
+  * XR
+    * Web 
+      * [Edge for HoloLens](https://docs.microsoft.com/en-us/hololens/hololens-new-edge)
+      * [Wolvic](https://wolvic.com/)
+    * AR
+      * [Snap AR](https://ar.snap.com/)
+    * MR
+      * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64) 
+  * Blockchain
+    * [dClimate](https://www.dclimate.net/)
+    * [Etherland](https://etherland.world/marketplace/)
+  * Gamification
+    * [Decentralland](https://decentraland.org/)
+    * [Gather](https://www.gather.town/socials)
+    * [The Sandbox](https://www.sandbox.game/en/)
 * examples
   * XR
     * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
