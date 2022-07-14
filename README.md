@@ -4,13 +4,16 @@ Creating Metaverse for Earth data
 
 ## Who
 ### Visionary People
-* Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
-* NVIDIA GTC 2022 - [Jensen Huang](https://www.youtube.com/watch?v=39ubNuxnrK8)
-* HTC VIVERSE - [Cher Wang](https://youtu.be/0DylYVxgyOM)
-* Navteca - [Shayna Solis/Skolnik](https://www.youtube.com/watch?v=Ef8j6hYbnFE)
+* XR
+** Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
+** NVIDIA GTC 2022 - [Jensen Huang](https://www.youtube.com/watch?v=39ubNuxnrK8)
+** HTC VIVERSE - [Cher Wang](https://youtu.be/0DylYVxgyOM)
+* Applied Science
+** Navteca - [Shayna Solis/Skolnik](https://www.youtube.com/watch?v=Ef8j6hYbnFE)
 
 ### Working Groups
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
+** [Crypto Altruism](https://www.cryptoaltruism.org/)
 * [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
 * [Metaverse Summit](https://metaverse-summit.org/)
 
@@ -52,7 +55,6 @@ Creating Metaverse for Earth data
   * [Etherland](https://etherland.world/marketplace/)
   * [The Sandbox](https://www.sandbox.game/en/)
   * [Snap AR](https://ar.snap.com/)
-
 * examples
   * XR
     * [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
