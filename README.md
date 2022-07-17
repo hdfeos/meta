@@ -74,6 +74,7 @@ Creating Metaverse for Earth data
   * Gamification
     * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
     * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
+    * [Zepeto](https://zepeto.me/)
 
 ## How
 * port the existing Earth data to Metaverse data.
