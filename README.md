@@ -36,7 +36,7 @@ Creating Metaverse for Earth data
   * capture the rare scene, NFT it, and sell it using carbon footprint mint.
   * science to earn.
 * Gamification
-  * break the ice on South Pole in Minecraft / Roblox.
+  * break the ice on North Pole in Minecraft / [Roblox](https://www.roblox.com/games/10271580809/NSIDC-NISE).
   * suba dive and [classify coral reefs](http://nemonet.info/).
   * excercise (e.g., [Peleton](https://www.onepeloton.com/bike/lanebreak)) with Earth data.
     * climb up or Yoga cloud data.
