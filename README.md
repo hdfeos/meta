@@ -4,6 +4,7 @@ Creating Metaverse for Earth data
 
 ## When
 * 2022-07-19 [MetaEarth/ESIP](https://2022esipjulymeeting.sched.com/event/12esg/metaverse-metaearth)
+* 2022-09-20 [Web3 Tech Summit](https://events.geekle.us/web3/)
 * 2022-10-03 [Metabeat](https://metabeat.venturebeat.com/)
 
 ## Who
