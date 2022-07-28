@@ -25,6 +25,7 @@ Creating Metaverse for Earth data
 ### Companies
 * [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M) 
 * [Unity: Create with VR Grant program](https://unity.com/grants/create-with-vr)
+* [Twelve: Carbon Transformation Company](https://www.twelve.co/)
 
 ## Why
 * XR - AR/VR/MR & 3D LED Billboard
