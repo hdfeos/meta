@@ -79,8 +79,11 @@ Creating Metaverse for Earth data
   * Blockchain
     * [Earth 2](https://earth2.io/)
   * Gamification
-    * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
-    * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
+    * Minecraft
+      * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
+      * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
+    * Roblox
+      * [Samsung Space Tycoon on Roblox](https://www.youtube.com/watch?v=IdIrDuK6ZUM)
     * [Zepeto](https://zepeto.me/)
 
 ## How
