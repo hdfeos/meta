@@ -66,6 +66,7 @@ Creating Metaverse for Earth data
   * Blockchain
     * [dClimate](https://www.dclimate.net/)
     * [Etherland](https://etherland.world/marketplace/)
+    * [GameFi](https://gamefi.org/metaverse)
   * Gamification
     * [Decentralland](https://decentraland.org/)
     * [Gather](https://www.gather.town/socials)
