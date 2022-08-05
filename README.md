@@ -79,6 +79,7 @@ Creating Metaverse for Earth data
       * [NASA Mars XR Challenge](https://www.herox.com/MarsXR)
   * Blockchain
     * [Earth 2](https://earth2.io/)
+    * [CO2](https://co2-1-0.io/)
   * Gamification
     * Minecraft
       * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
