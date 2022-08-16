@@ -65,7 +65,9 @@ Creating Metaverse for Earth data
       * [Snap AR](https://ar.snap.com/)
       * [Magic Leap 2](https://www.magicleap.com/en-us/)
     * MR
-      * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64) 
+      * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
+    * VR
+      * [Valve Index](https://www.valvesoftware.com/en/index)
   * Blockchain
     * [dClimate](https://www.dclimate.net/)
     * [Etherland](https://etherland.world/marketplace/)
