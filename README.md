@@ -103,4 +103,5 @@ Creating Metaverse for Earth data
   * [KTX](https://www.khronos.org/ktx/) 
   * [USD](https://developer.nvidia.com/usd)
 * interact with Earth data naturally.
+  * [Google Travel Impact Model](https://github.com/google/travel-impact-model)
 * make Earth data fun together!
