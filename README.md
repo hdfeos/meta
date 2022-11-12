@@ -70,6 +70,7 @@ Creating Metaverse for Earth data
     * AR
       * [Snap AR](https://ar.snap.com/)
       * [Magic Leap 2](https://www.magicleap.com/en-us/)
+      * [FLICKPLAY](https://www.flickplay.co)
     * MR
       * [Project Cambria - Mixed Reality](https://www.youtube.com/watch?v=tgJ7m0Phd64)
     * VR
