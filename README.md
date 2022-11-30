@@ -21,6 +21,7 @@ Creating Metaverse for Earth data
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
 * [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
 * [Metaverse Summit](https://metaverse-summit.org/)
+
 #### Blockchain
 * [DIF](https://identity.foundation/)
 * [Crypto Altruism](https://www.cryptoaltruism.org/)
@@ -60,6 +61,8 @@ Creating Metaverse for Earth data
   * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
+* Motion Trackers
+  * [Mocopi](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html)
 
 ## Where
 * platforms - Roblox / Minecraft / etc.
