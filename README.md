@@ -37,7 +37,7 @@ Creating Metaverse for Earth data
   * [connect and protect the Natural World](https://ssir.org/articles/entry/using_the_metaverse_to_connect_and_protect_the_natural_world).
     * become [a polar bear on ice sheet](https://www.youtube.com/watch?v=0nUA9aq5Gpk).
     * become [a painter](https://vermillion-vr.com/) of Earth data.
-  * aware natural harzards naturally
+  * feel natural harzards naturally.
     * tour active volcanoe and feel the real thickness of volcanic ashes.
     * [escape from flooding during Hurricane](https://agu2022fallmeeting-agu.ipostersessions.com/Default.aspx?s=B7-69-4F-D8-BF-8E-AE-1F-D3-F8-3C-C7-84-53-65-64).
   * jump on Earth observing satellites or [International Space Station](https://www.oculus.com/experiences/quest/3006696236087408) and view the Earth from space.
