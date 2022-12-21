@@ -19,7 +19,7 @@ Creating Metaverse for Earth data
 
 ### Working Groups
 * [Immersive Web Working Group](https://www.w3.org/immersive-web/)
-* [OGC Metaverse Working Group](https://www.ogc.org/standards/requests/249)
+* [OGC Metaverse Working Group](https://www.ogc.org/projects/groups/geo4metaverse)
 * [Metaverse Summit](https://metaverse-summit.org/)
 
 #### Blockchain
