@@ -22,6 +22,7 @@ Creating Metaverse for Earth data
 * [OGC Metaverse Working Group](https://www.ogc.org/projects/groups/geo4metaverse)
 * [Metaverse Summit](https://metaverse-summit.org/)
 * [Metaverse Standards Forum](https://metaverse-standards.org/)
+* [Open Metaverse Foundation](https://www.openmv.org)
 
 #### Blockchain
 * [DIF](https://identity.foundation/)
