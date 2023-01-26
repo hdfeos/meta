@@ -67,6 +67,7 @@ Creating Metaverse for Earth data
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
 * Motion Trackers
   * [Mocopi](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html)
+  * [VR Glove](https://cde.nus.edu.sg/novel-vr-glove-brings-realistic-sense-of-touch-to-metaverse/)
 
 ## Where
 * platforms - Roblox / Minecraft / etc.
