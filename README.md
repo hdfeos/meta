@@ -15,6 +15,8 @@ Creating Metaverse for Earth data
   * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
   * NVIDIA GTC 2022 - [Jensen Huang](https://www.youtube.com/watch?v=39ubNuxnrK8)
   * HTC VIVERSE - [Cher Wang](https://youtu.be/0DylYVxgyOM)
+* Geoscience
+  * [Prof. Tom Raimondo](https://www.youtube.com/watch?v=D276qn4PDzo)
 * Applied Science
   * Navteca - [Shayna Solis/Skolnik](https://www.youtube.com/watch?v=Ef8j6hYbnFE)
 
