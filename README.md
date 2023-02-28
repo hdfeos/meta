@@ -31,11 +31,12 @@ Creating Metaverse for Earth data
 * [DIF](https://identity.foundation/)
 * [Crypto Altruism](https://www.cryptoaltruism.org/)
 
-### Companies
-* [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M) 
+### Organizations
+* [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M)
+* [NASA JPL]( https://www.nasa.gov/sites/default/files/atoms/files/504888_-_apr-jun_2022_it_talk_design.pdf)
+* [Naver: Arcverse](https://www.youtube.com/watch?v=CeW8tuzxg2Y)
 * [Unity: Create with VR Grant program](https://unity.com/grants/create-with-vr)
 * [Twelve: Carbon Transformation Company](https://www.twelve.co/)
-* [Naver: Arcverse](https://www.youtube.com/watch?v=CeW8tuzxg2Y)
 
 ## Why
 * XR - AR/VR/MR & 3D LED Billboard
