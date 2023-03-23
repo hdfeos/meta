@@ -104,6 +104,7 @@ Creating Metaverse for Earth data
   * Blockchain
     * [Earth 2](https://earth2.io/)
     * [CO2](https://co2-1-0.io/)
+    * [Carbon Credit](https://www.corteva.us/products-and-solutions/digital-solutions/carbon.html)
   * Gamification
     * Minecraft
       * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
