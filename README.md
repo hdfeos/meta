@@ -72,6 +72,8 @@ Creating Metaverse for Earth data
 * Motion Trackers
   * [Mocopi](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html)
   * [HaptGlove](https://cde.nus.edu.sg/novel-vr-glove-brings-realistic-sense-of-touch-to-metaverse/)
+* IoT
+  * [Amazon Sidewalk](https://www.amazon.com/Amazon-Sidewalk/)
 
 ## Where
 * platforms - Roblox / Minecraft / etc.
