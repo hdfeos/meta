@@ -26,6 +26,7 @@ Creating Metaverse for Earth data
 * [Metaverse Summit](https://metaverse-summit.org/)
 * [Metaverse Standards Forum](https://metaverse-standards.org/)
 * [Open Metaverse Foundation](https://www.openmv.org)
+* [ITU-T FG-MV](https://www.itu.int/en/ITU-T/focusgroups/mv/Pages/default.aspx)
 
 #### Blockchain
 * [DIF](https://identity.foundation/)
