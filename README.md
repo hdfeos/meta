@@ -70,6 +70,7 @@ Creating Metaverse for Earth data
   * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
+  * [LiveKit](https://github.com/livekit/livekit)
 * Motion Trackers
   * [Mocopi](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html)
   * [HaptGlove](https://cde.nus.edu.sg/novel-vr-glove-brings-realistic-sense-of-touch-to-metaverse/)
