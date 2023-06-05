@@ -3,6 +3,7 @@
 Creating Metaverse for Earth data
 
 ## When
+* 2023-06-05 [WWDC23](https://developer.apple.com/wwdc23/)
 * 2023-05-10 [Open Metaverse Summit](https://events.linuxfoundation.org/open-source-summit-north-america/about/open-metaverse-summit/)
 * 2022-10-11 [Metaverse Masters](https://metaverse-masters.devpost.com)
 * 2022-10-03 [Metabeat](https://metabeat.venturebeat.com/)
