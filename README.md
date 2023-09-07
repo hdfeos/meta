@@ -12,6 +12,7 @@ Creating Metaverse for Earth data
 
 ## Who
 ### Visionary People
+* Spatial Computing - [Tim Cook](https://www.youtube.com/watch?v=To5LO3UR--I)
 * XR
   * Meet the creator of Metaverse - [Mark Zuckerberg](https://www.youtube.com/watch?v=gElfIo6uw4g)
   * NVIDIA GTC 2022 - [Jensen Huang](https://www.youtube.com/watch?v=39ubNuxnrK8)
