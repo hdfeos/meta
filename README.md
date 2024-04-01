@@ -3,6 +3,7 @@
 Creating Metaverse for Earth data
 
 ## When
+* 2024-06-18 [AWE 2024](https://www.awexr.com/usa-2024/)
 * 2024-02-26 [MWC24](https://www.mwcbarcelona.com)
 * 2023-06-05 [WWDC23](https://developer.apple.com/wwdc23/)
 * 2023-05-10 [Open Metaverse Summit](https://events.linuxfoundation.org/open-source-summit-north-america/about/open-metaverse-summit/)
