@@ -37,7 +37,7 @@ Creating Metaverse for Earth data
 * [Crypto Altruism](https://www.cryptoaltruism.org/)
 
 ### Organizations
-* [NTT Docomo 6G Fee Tech](https://www.youtube.com/watch?v=QdAQJbtT4hw)
+* [NTT Docomo 6G Feel Tech](https://www.youtube.com/watch?v=QdAQJbtT4hw)
 * [Maxar: Unlock the real-world Metaverse](https://www.youtube.com/watch?v=yoXU5OWB08M)
 * [NASA JPL]( https://www.nasa.gov/sites/default/files/atoms/files/504888_-_apr-jun_2022_it_talk_design.pdf)
 * [Naver: Arcverse](https://www.youtube.com/watch?v=CeW8tuzxg2Y)
