@@ -72,6 +72,7 @@ Creating Metaverse for Earth data
 ## What
 * (open source) technologies available for creating Metaverse
   * [Metaseq](https://github.com/facebookresearch/metaseq)
+  * [NVIDIA Holoscan](https://github.com/nvidia-holoscan/)
   * [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
   * [Omniverse](https://www.nvidia.com/en-us/omniverse/)
   * [Google ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
