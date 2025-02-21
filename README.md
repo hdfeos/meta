@@ -3,6 +3,7 @@
 Creating Metaverse for Earth data
 
 ## When
+* 2025-01-22 [Gaussian Splats](https://metaverse-standards.org/event/gaussian-splats-ready-for-standardization/)
 * 2024-06-18 [AWE 2024](https://www.awexr.com/usa-2024/)
 * 2024-02-26 [MWC24](https://www.mwcbarcelona.com)
 * 2023-06-05 [WWDC23](https://developer.apple.com/wwdc23/)
