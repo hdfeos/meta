@@ -118,6 +118,7 @@ Creating Metaverse for Earth data
     * [Carbon Credit](https://www.corteva.us/products-and-solutions/digital-solutions/carbon.html)
   * Gamification
     * Minecraft
+      * [CraftCells](https://github.com/Luthey-Schulten-Lab/CraftCells)
       * [HDFCraft](http://hyoklee.github.io/HDFCRAFT/)
       * [Metaverse for Education](https://www.youtube.com/watch?v=ZTp5mK3sLRc)
     * Roblox
